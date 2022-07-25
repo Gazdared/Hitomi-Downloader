@@ -29,15 +29,6 @@
 - 📋 Clipboard monitor
 - 🗃️ Easy to organize tasks
 
-## Supported Sites
-| Site | URL |
-| :--: | -- |
-| **4chan** | <https://4chan.org> |
-| **AfreecaTV** | <https://afreecatv.com> |
-| **ArtStation** | <https://artstation.com> |
-| **AsmHentai** | <https://asmhentai.com> |
-| **Avgle** | <https://avgle.com> |
-| **baraag.net** | <https://baraag.net> |
 | **半次元** | <https://bcy.net> |
 | **BDSMlr** | <https://bdsmlr.com> |
 | **bilibili** | <https://bilibili.com> |
